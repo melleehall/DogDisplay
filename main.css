@@ -1,27 +1,32 @@
 * {
-    box-sizing: border-box;
-  }
-  
-  body {
-    font-family: 'Roboto', sans-serif;
-    background-color: black;
-    color: white;
-  }
+  box-sizing: border-box;
+}
 
-  input {
-      width: 150px;
-  }
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: black;
+  color: white;
+}
 
-  .button {
-      background-color: white;
-  }
-  
-  .container {
-    max-width: 600px;
-    margin: 0 auto;
-  }
-  
-  .hidden {
-    display: none;
-  }
-  
+input {
+    width: 150px;
+}
+
+.button {
+    background-color: white;
+}
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.results-img {
+  height: 150px;
+}
+
+.hidden {
+  display: none;
+}
+
+
